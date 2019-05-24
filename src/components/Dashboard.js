@@ -127,12 +127,11 @@ class DashboardVisualization extends Component {
                       isOpen={this.state.isOpen}
                       onToggleOpen= {this.onToggleOpen}
                   />
-              }
               </CardContent>
             </Card>
         );
     }
-};
+  }
 
 const mapState = (state, ownProps) => {
     const {
