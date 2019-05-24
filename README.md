@@ -1,2 +1,3 @@
-# srividya-eog-react-assesment
-This is for EOG react assesment
+## Create React App Visualization
+
+Read more about this assessment here
